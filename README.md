@@ -35,7 +35,4 @@ Se você deseja contribuir para o ReciclApp, fique à vontade para abrir um pull
 
 ## Equipe
 
-- Diego Augusto Paixão Paiva - Desenvolvedor Front-end
-- Fillipe Ferreira de Souza - Desenvolvedor Back-end
-- Gabriel Duarte dos Santos - Desenvolvedor Back-end
-- Renatha Vitória Rodrigues Canedo Sousa - Designer UX/UI (Figma)
+- Diego Augusto Paixão Paiva - Desenvolvedor Full Stack
