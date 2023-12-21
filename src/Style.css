@@ -1,0 +1,66 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  .login-button {
+    transition: background-color 0.3s;
+  }
+  
+  .login-button:hover {
+    background-color: #1361a5;
+  }
+  
+  .logo:hover {
+    filter: brightness(150%); /* Ajuste o valor conforme necessário para obter o efeito desejado */
+  }
+  
+  
+  .custom-navbar {
+    background-color: #275a53; /* Substitua pela cor desejada */
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    color: #666;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  nav li {
+    margin-right: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  a:hover {
+    color: #007bff;
+  }
+  
+  .navbar {
+    margin-bottom: 20px; /* Adicione o valor de margem desejado */
+  }
+  
